@@ -1,0 +1,31 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="rQDwf=E?Z~]%#%e%=,er" x="0" y="0"></block><block type="device_forever" id="vrCpF[fsvyjT#;DQ|dqh" x="448" y="1"><statement name="HANDLER"><block type="controls_repeat_ext" id="8sFj*[4FTfP7DmjMNf)E"><value name="TIMES"><shadow type="math_whole_number" id="M-h@`bl9HaKgW1o0U}:j"><field name="NUM">100000000000</field></shadow></value><statement name="DO"><block type="playMelody" id="0/qtI8+q8vg~7ti`8z,4"><value name="melody"><shadow type="melody_editor" id=".!z)[P*@UGs,vJ)!Vo/q"><field name="melody">"C5 B A G C D E F "</field></shadow></value><value name="tempo"><shadow type="math_number_minmax" id="K+%}4TG}6?pL0EG[D3Ba"><mutation min="40" max="500" label="Tempo" precision="0"></mutation><field name="SLIDER">120</field></shadow></value><next><block type="device_show_leds" id="PZ[4F}K2Z;:MH%3WtXUr"><field name="LEDS">`
+        # # . # # 
+        # # . # # 
+        . . # . . 
+        # # # # # 
+        # . . . #
+        `</field><next><block type="device_show_leds" id="QRWH+rTg0B%;Iofy:Fae"><field name="LEDS">`
+        # . . # # 
+        # # . . # 
+        . . # . . 
+        # # # # . 
+        # . . . #
+        `</field><next><block type="device_show_leds" id="1LBma)rC=~xk94YoBo@@"><field name="LEDS">`
+        # . . # # 
+        . # . . . 
+        . . # . . 
+        . # # . # 
+        # . . . #
+        `</field><next><block type="device_show_leds" id="L,*=_nlm5H^V}d7z(N19"><field name="LEDS">`
+        . . . . # 
+        . # . . . 
+        . . # . . 
+        . . . . # 
+        # . . . .
+        `</field><next><block type="device_show_leds" id="M_C.hKE!2je}~$)zkv[E"><field name="LEDS">`
+        # # . . # 
+        . # # # . 
+        # # # . . 
+        # . . # # 
+        # . # # #
+        `</field></block></next></block></next></block></next></block></next></block></next></block></statement></block></statement></block></xml>
